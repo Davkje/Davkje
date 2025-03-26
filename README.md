@@ -7,7 +7,8 @@
 💫 About Me: Professional songwriter and musicproducer for 8+ years transitioning into web-developement! Loves tabletop, videogames, sound-design and sauerkraut!
 
 ## 🦖 Wanna Play A Game?
-Get to know me with this short game where I've made everything! From code to music and art! [Click Here!](https://davkje.github.io/jumping-game/)
+Get to know me with this short game where I've made everything! From code to music and art!  
+<a href="https://davkje.github.io/jumping-game/" target="_blank">Click Here!</a>
 
 ## 🌐 Reach Out
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-kjellstrand-b6760113a/)
