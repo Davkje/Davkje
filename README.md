@@ -1,4 +1,4 @@
-# 👋 Hi, I’m David Kjellstrand
+# 👋 Hi, I’m David!
 
 🌱 Studying Front End Development at Medieinstitutet  
 🔭 Currently looking fo an internship for late 2025  
