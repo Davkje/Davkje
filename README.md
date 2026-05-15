@@ -1,10 +1,11 @@
 # 👋 Hi, I’m David!
 
-🌱 Studying Front End Development at Medieinstitutet  
-🔭 Currently looking fo an internship for late 2025  
-🌎 Stockholm, Sweden  
-😄 Pronouns: he/him  
-💫 About Me: Professional songwriter and musicproducer for 8+ years transitioning into web-developement! Loves tabletop, videogames, sound-design and sauerkraut!
+ Front End Development, graduated from Medieinstitutet  
+ Currently looking for work!
+ Stockholm, Sweden
+ Pronouns: he/him  
+
+ About Me: Professional songwriter and musicproducer for 8+ years transitioning into web-developement! Loves tabletop, videogames, sound-design and sauerkraut!
 
 ## Portfolio
 Check out my new portfolio [here!](https://davkje.github.io/Davids-Portfolio/)
