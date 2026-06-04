@@ -8,7 +8,7 @@
  About Me: Professional songwriter and musicproducer for 8+ years transitioning into web-developement! Loves tabletop, videogames, sound-design and sauerkraut!
 
 ## Portfolio
-Check out my new portfolio [here!](https://davkje.github.io/Davids-Portfolio/)
+Check out my new portfolio [here!](https://davidkjellstrand-portfolio.vercel.app/)
 
 ## 🌐 Reach Out
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-kjellstrand-b6760113a/)
